@@ -1,0 +1,12 @@
+{
+  "name": "set-object-comp",
+  "version": "1.0.0",
+  "description": "Compare set items as objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "keywords": ["set", "comparrison"],
+  "author": "Even Stensberg",
+  "license": "MIT"
+}
